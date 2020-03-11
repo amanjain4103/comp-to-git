@@ -1,1 +1,0 @@
-# comp-to-git
